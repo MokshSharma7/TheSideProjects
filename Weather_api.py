@@ -1,7 +1,7 @@
 import requests
 
-api_key = "2b9e90c599c1041bc792ff8cf00a8c64"
-base_url= "http://api.openweathermap.org/data/2.5/weather"
+api_key = "**************"
+base_url= "**openweathermap.org*****"
 
 def get_weather(city_name):
 
