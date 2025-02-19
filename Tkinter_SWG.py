@@ -1,4 +1,4 @@
-
+# This is a "Snake Water Gun" in which it {PLAYER VS MACHINE}
 import pygame
 import random
 
