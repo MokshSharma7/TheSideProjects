@@ -1,4 +1,5 @@
 # This is a "Snake Water Gun" in which it {PLAYER VS MACHINE}
+# The Game uses Tkinter as the deployed system and acting as a LIVE SERVER
 import pygame
 import random
 
