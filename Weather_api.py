@@ -7,7 +7,7 @@ def get_weather(city_name):
 
     params = {
         "q": city_name,       # City name
-        "appid": "2b9e90c599c1041bc792ff8cf00a8c64",     # API key
+        "appid": "**********",     # API key
         "units": "metric"     # Use 'metric' for Celsius, 'imperial' for Fahrenheit
     }
 
