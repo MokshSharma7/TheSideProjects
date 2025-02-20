@@ -1,4 +1,4 @@
-# TheSideProjects
+# TheSideProjects.
 
  My Side Projects
 
